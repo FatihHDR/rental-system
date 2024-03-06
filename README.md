@@ -19,23 +19,22 @@ $ cd rental-system
 |__ Vehicle Rental Management System
   |
   |__ System
-  |         |_____ AdminPanel
-  |         |_____ HotelTransportSystem
-  |         |              |_____ Admin
-  |         |              |_____ Booked
-  |         |              |_____ Customer  
-  |         |              |_____ Data
-  |         |              |_____ Drivers
-  |         |              |_____ Hire and Rent
-  |         |              |_____ Login
-  |         |              |_____ MainMenuSettings
-  |         |              |_____ Return
-  |         |              |_____ StartUp
-  |         |              |_____ Vehicles
-  |         |_____ Icons
-  |         |_____ FatihDriveSystem.sln
-  |         |_____ ColorHandler.txt
-  |__ screenshot
+         |_____ AdminPanel
+         |_____ HotelTransportSystem
+         |              |_____ Admin
+         |              |_____ Booked
+         |              |_____ Customer
+         |              |_____ Data
+         |              |_____ Drivers
+         |              |_____ Hire and Rent
+         |              |_____ Login
+         |              |_____ MainMenuSettings
+         |              |_____ Return
+         |              |_____ StartUp
+         |              |_____ Vehicles
+         |_____ Icons
+         |_____ FatihDriveSystem.sln
+         |_____ ColorHandler.txt
 ```
 
 #### LICENSE - [MIT License](https://github.com/Nano-Labs-Developers/Vehicle-Rental-Management-System/blob/main/LICENSE)
