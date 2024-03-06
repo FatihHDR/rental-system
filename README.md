@@ -5,8 +5,8 @@ This application is built with C # .NET Framework 4.8 and can easily handle the 
 
 ### Installation
 ``` 
-$ https://github.com/Nano-Labs-Developers/Vehicle-Rental-Management-System.git
-$ cd Vehicle-Rental-Management-System
+$ https://github.com/FatihHDR/rental-system.git
+$ cd rental-system
 ```
 
 ### Requirements
@@ -33,7 +33,7 @@ $ cd Vehicle-Rental-Management-System
   |         |              |_____ StartUp
   |         |              |_____ Vehicles
   |         |_____ Icons
-  |         |_____ AyuboDriveSystem.sln
+  |         |_____ FatihDriveSystem.sln
   |         |_____ ColorHandler.txt
   |__ screenshot
 ```
