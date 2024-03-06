@@ -37,5 +37,5 @@ $ cd rental-system
          |_____ ColorHandler.txt
 ```
 
-#### LICENSE - [MIT License](https://github.com/Nano-Labs-Developers/Vehicle-Rental-Management-System/blob/main/LICENSE)
+#### LICENSE - [MIT License](https://github.com/FatihHDR/rental-system/blob/main/LICENSE)
 
